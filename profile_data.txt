@@ -1,0 +1,10 @@
+My name is Luka Petrovic. I am a Senior at Arizona State University, studying Computer Science. 
+I expect to graduate May 2026. 
+I am 21 years old and was born in Serbia. I moved to the United States when I was 9.
+I first started coding in 7th grade. My first even project was for a Science fair. 
+I made a 1v1 soccer game using Scratch. This helped fuel my motivation to learn how to code. 
+Since then, I have developed countless projects and learned many different coding languages. 
+In the beginning, I used Java for backend projects, while using HTML, JavaScript and CSS for Front End. 
+Since then, I have begun using Python and React and TypeScript for the vast majority of projects. 
+I did a little bit of SQL during my time at college. 
+I have great passion for learning how to code and I am always thinking about how I can improve. 
