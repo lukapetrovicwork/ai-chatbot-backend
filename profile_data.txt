@@ -8,3 +8,5 @@ In the beginning, I used Java for backend projects, while using HTML, JavaScript
 Since then, I have begun using Python and React and TypeScript for the vast majority of projects. 
 I did a little bit of SQL during my time at college. 
 I have great passion for learning how to code and I am always thinking about how I can improve. 
+I am currently working on a budget analysis project, which creates charts, graphs, and more based on spending/saving.
+I will also work on more projects.
